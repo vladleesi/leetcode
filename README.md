@@ -6,7 +6,7 @@ Focus on clean, readable, and efficient solutions.
 ### Problems
 
 <details>
-  <summary><strong>Strings</strong></summary>
+  <summary>Strings</summary>
 
 - [Roman to Integer](src/main/kotlin/dev/vladleesi/strings/RomanToInteger.kt)
 
