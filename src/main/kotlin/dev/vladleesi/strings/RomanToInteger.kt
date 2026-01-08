@@ -1,12 +1,7 @@
 package dev.vladleesi.strings
 
 class RomanToInteger {
-
     fun romanToInt(s: String): Int {
-        require(s.length in 1..15) {
-            "Roman numeral length must be between 1 and 15 characters"
-        }
-
         var result = 0
         for (i in s.indices) {
             val current = value(s[i])
