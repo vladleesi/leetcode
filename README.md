@@ -9,6 +9,7 @@ Focus on clean, readable, and efficient solutions.
   <summary>Array</summary>
 
 - [Two Sum](src/main/kotlin/dev/vladleesi/array/TwoSum.kt)
+- [Longest Common Prefix](src/main/kotlin/dev/vladleesi/strings/LongestCommonPrefix.kt)
 
 </details>
 
