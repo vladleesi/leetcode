@@ -16,5 +16,6 @@ Focus on clean, readable, and efficient solutions.
   <summary>Strings</summary>
 
 - [Roman to Integer](src/main/kotlin/dev/vladleesi/strings/RomanToInteger.kt)
+- [Longest Common Prefix](src/main/kotlin/dev/vladleesi/strings/LongestCommonPrefix.kt)
 
 </details>
