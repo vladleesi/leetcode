@@ -10,6 +10,7 @@ Focus on clean, readable, and efficient solutions.
 
 - [Two Sum](src/main/kotlin/dev/vladleesi/array/TwoSum.kt)
 - [Longest Common Prefix](src/main/kotlin/dev/vladleesi/strings/LongestCommonPrefix.kt)
+- [Remove Duplicates from Sorted Array](src/main/kotlin/dev/vladleesi/array/RemoveDuplicatesFromSortedArray.kt)
 
 </details>
 
