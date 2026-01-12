@@ -12,6 +12,7 @@ Focus on clean, readable, and efficient solutions.
 - [Longest Common Prefix](src/main/kotlin/dev/vladleesi/strings/LongestCommonPrefix.kt)
 - [Remove Duplicates from Sorted Array](src/main/kotlin/dev/vladleesi/array/RemoveDuplicatesFromSortedArray.kt)
 - [Remove Element](src/main/kotlin/dev/vladleesi/array/RemoveElement.kt)
+- [Search Insert Position](src/main/kotlin/dev/vladleesi/array/SearchInsertPosition.kt)
 
 </details>
 
