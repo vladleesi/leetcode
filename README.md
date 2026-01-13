@@ -21,5 +21,6 @@ Focus on clean, readable, and efficient solutions.
 
 - [Roman to Integer](src/main/kotlin/dev/vladleesi/strings/RomanToInteger.kt)
 - [Longest Common Prefix](src/main/kotlin/dev/vladleesi/strings/LongestCommonPrefix.kt)
+- [Valid Parentheses](src/main/kotlin/dev/vladleesi/strings/ValidParentheses.kt)
 
 </details>
