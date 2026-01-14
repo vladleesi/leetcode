@@ -22,5 +22,6 @@ Focus on clean, readable, and efficient solutions.
 - [Roman to Integer](src/main/kotlin/dev/vladleesi/strings/RomanToInteger.kt)
 - [Longest Common Prefix](src/main/kotlin/dev/vladleesi/strings/LongestCommonPrefix.kt)
 - [Valid Parentheses](src/main/kotlin/dev/vladleesi/strings/ValidParentheses.kt)
+- [Find the Index of the First Occurrence in a String](src/main/kotlin/dev/vladleesi/strings/FindIndexFirstOccurrenceInString.kt)
 
 </details>
