@@ -23,5 +23,6 @@ Focus on clean, readable, and efficient solutions.
 - [Longest Common Prefix](src/main/kotlin/dev/vladleesi/strings/LongestCommonPrefix.kt)
 - [Valid Parentheses](src/main/kotlin/dev/vladleesi/strings/ValidParentheses.kt)
 - [Find the Index of the First Occurrence in a String](src/main/kotlin/dev/vladleesi/strings/FindIndexFirstOccurrenceInString.kt)
+- [Length of Last Word](src/main/kotlin/dev/vladleesi/strings/LengthLastWord.kt)
 
 </details>
