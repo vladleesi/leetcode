@@ -1,4 +1,4 @@
-package dev.vladleesi.array
+package dev.vladleesi
 
 class SearchInsertPosition {
     fun searchInsert(nums: IntArray, target: Int): Int {

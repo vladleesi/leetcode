@@ -1,4 +1,4 @@
-package dev.vladleesi.strings
+package dev.vladleesi
 
 class RomanToInteger {
     fun romanToInt(s: String): Int {

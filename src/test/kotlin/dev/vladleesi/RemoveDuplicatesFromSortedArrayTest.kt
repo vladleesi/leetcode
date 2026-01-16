@@ -1,4 +1,4 @@
-package dev.vladleesi.array
+package dev.vladleesi
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

@@ -1,4 +1,4 @@
-package dev.vladleesi.strings
+package dev.vladleesi
 
 import org.junit.jupiter.api.Assertions.assertFalse
 import kotlin.test.Test

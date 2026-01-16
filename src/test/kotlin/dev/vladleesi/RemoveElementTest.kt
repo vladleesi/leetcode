@@ -1,4 +1,4 @@
-package dev.vladleesi.array
+package dev.vladleesi
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

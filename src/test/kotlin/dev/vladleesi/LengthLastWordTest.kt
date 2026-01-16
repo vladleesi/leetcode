@@ -1,4 +1,4 @@
-package dev.vladleesi.strings
+package dev.vladleesi
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

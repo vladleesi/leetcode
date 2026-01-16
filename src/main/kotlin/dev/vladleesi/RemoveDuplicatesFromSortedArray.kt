@@ -1,4 +1,4 @@
-package dev.vladleesi.array
+package dev.vladleesi
 
 class RemoveDuplicatesFromSortedArray {
     fun removeDuplicates(nums: IntArray): Int {

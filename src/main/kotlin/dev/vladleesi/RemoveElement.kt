@@ -1,4 +1,4 @@
-package dev.vladleesi.array
+package dev.vladleesi
 
 class RemoveElement {
     fun removeElement(nums: IntArray, `val`: Int): Int {

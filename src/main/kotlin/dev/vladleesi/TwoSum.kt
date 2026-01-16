@@ -1,4 +1,4 @@
-package dev.vladleesi.array
+package dev.vladleesi
 
 class TwoSum {
     fun twoSum(nums: IntArray, target: Int): IntArray {

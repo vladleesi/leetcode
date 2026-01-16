@@ -1,4 +1,6 @@
-package dev.vladleesi.strings
+package dev.vladleesi
+
+import kotlin.text.iterator
 
 class LengthLastWord {
     fun lengthOfLastWord(s: String): Int {

@@ -1,6 +1,7 @@
-package dev.vladleesi.strings
+package dev.vladleesi
 
 import java.util.Stack
+import kotlin.text.iterator
 
 class ValidParentheses {
     fun isValid(s: String): Boolean {

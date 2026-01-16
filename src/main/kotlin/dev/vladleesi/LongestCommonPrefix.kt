@@ -1,4 +1,4 @@
-package dev.vladleesi.strings
+package dev.vladleesi
 
 class LongestCommonPrefix {
     fun longestCommonPrefix(strs: Array<String>): String {

@@ -1,4 +1,4 @@
-package dev.vladleesi.strings
+package dev.vladleesi
 
 class FindIndexFirstOccurrenceInString {
     fun strStr(haystack: String, needle: String): Int {
