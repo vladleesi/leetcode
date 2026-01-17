@@ -18,5 +18,6 @@ Focus on clean, readable, and efficient solutions.
 - [Find the Index of the First Occurrence in a String](src/main/kotlin/dev/vladleesi/FindIndexFirstOccurrenceInString.kt)
 - [Length of Last Word](src/main/kotlin/dev/vladleesi/LengthLastWord.kt)
 - [Add Binary](src/main/kotlin/dev/vladleesi/AddBinary.kt)
+- [Plus One](src/main/kotlin/dev/vladleesi/PlusOne.kt)
 
 </details>
