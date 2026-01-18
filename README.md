@@ -3,9 +3,9 @@
 Collection of LeetCode problems solved in Kotlin.
 Focus on clean, readable, and efficient solutions.
 
-### Problems
-
 [![Unit Tests](https://github.com/vladleesi/leetcode/actions/workflows/test-push.yml/badge.svg)](https://github.com/vladleesi/leetcode/actions/workflows/test-push.yml)
+
+### Problems
 
 <details>
   <summary>View all</summary>
