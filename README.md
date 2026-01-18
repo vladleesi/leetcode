@@ -5,6 +5,8 @@ Focus on clean, readable, and efficient solutions.
 
 ### Problems
 
+[![Unit Tests](https://github.com/vladleesi/leetcode/actions/workflows/test-push.yml/badge.svg)](https://github.com/vladleesi/leetcode/actions/workflows/test-push.yml)
+
 <details>
   <summary>View all</summary>
 
