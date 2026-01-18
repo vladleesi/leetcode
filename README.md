@@ -19,5 +19,6 @@ Focus on clean, readable, and efficient solutions.
 - [Length of Last Word](src/main/kotlin/dev/vladleesi/LengthLastWord.kt)
 - [Add Binary](src/main/kotlin/dev/vladleesi/AddBinary.kt)
 - [Plus One](src/main/kotlin/dev/vladleesi/PlusOne.kt)
+- [Merge Sorted Array](src/main/kotlin/dev/vladleesi/MergeSortedArray.kt)
 
 </details>
