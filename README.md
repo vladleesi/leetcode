@@ -22,5 +22,6 @@ Focus on clean, readable, and efficient solutions.
 - [Add Binary](src/main/kotlin/dev/vladleesi/AddBinary.kt)
 - [Plus One](src/main/kotlin/dev/vladleesi/PlusOne.kt)
 - [Merge Sorted Array](src/main/kotlin/dev/vladleesi/MergeSortedArray.kt)
+- [Majority Element](src/main/kotlin/dev/vladleesi/MajorityElement.kt)
 
 </details>
