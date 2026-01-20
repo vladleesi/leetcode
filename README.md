@@ -3,8 +3,8 @@
 Collection of LeetCode problems solved in Kotlin.
 Focus on clean, readable, and efficient solutions.
 
-[![Unit Tests](https://img.shields.io/github/actions/workflow/status/vladleesi/leetcode/test-push.yml?style=flat-square&label=Tests&labelColor=black)](https://github.com/vladleesi/leetcode/actions/workflows/test-push.yml)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvladleesi&logo=leetcode)](https://leetcode.com/vladleesi/)
+[![Unit Tests](https://img.shields.io/github/actions/workflow/status/vladleesi/leetcode/test-push.yml?label=Tests&labelColor=black)](https://github.com/vladleesi/leetcode/actions/workflows/test-push.yml)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvladleesi&logo=leetcode)](https://leetcode.com/vladleesi/)
 
 ### Problems
 
