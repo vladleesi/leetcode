@@ -24,6 +24,7 @@ Focus on clean, readable, and efficient solutions.
 - [Roman to Integer](src/main/kotlin/dev/vladleesi/RomanToInteger.kt)
 - [Search Insert Position](src/main/kotlin/dev/vladleesi/SearchInsertPosition.kt)
 - [Two Sum](src/main/kotlin/dev/vladleesi/TwoSum.kt)
+- [Valid Anagram](src/main/kotlin/dev/vladleesi/ValidAnagram.kt)
 - [Valid Parentheses](src/main/kotlin/dev/vladleesi/ValidParentheses.kt)
 
 </details>
