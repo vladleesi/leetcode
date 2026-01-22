@@ -18,6 +18,7 @@ Focus on clean, readable, and efficient solutions.
 - [Longest Common Prefix](src/main/kotlin/dev/vladleesi/LongestCommonPrefix.kt)
 - [Majority Element](src/main/kotlin/dev/vladleesi/MajorityElement.kt)
 - [Merge Sorted Array](src/main/kotlin/dev/vladleesi/MergeSortedArray.kt)
+- [Missing Number](src/main/kotlin/dev/vladleesi/MissingNumber.kt)
 - [Plus One](src/main/kotlin/dev/vladleesi/PlusOne.kt)
 - [Remove Duplicates from Sorted Array](src/main/kotlin/dev/vladleesi/RemoveDuplicatesFromSortedArray.kt)
 - [Remove Element](src/main/kotlin/dev/vladleesi/RemoveElement.kt)
