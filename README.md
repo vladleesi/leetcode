@@ -14,6 +14,7 @@ Focus on clean, readable, and efficient solutions.
 - [Add Binary](src/main/kotlin/dev/vladleesi/AddBinary.kt)
 - [Contains Duplicate](src/main/kotlin/dev/vladleesi/ContainsDuplicate.kt)
 - [Find the Index of the First Occurrence in a String](src/main/kotlin/dev/vladleesi/FindIndexFirstOccurrenceInString.kt)
+- [Intersection of Two Arrays](src/main/kotlin/dev/vladleesi/IntersectionTwoArrays.kt)
 - [Length of Last Word](src/main/kotlin/dev/vladleesi/LengthLastWord.kt)
 - [Longest Common Prefix](src/main/kotlin/dev/vladleesi/LongestCommonPrefix.kt)
 - [Majority Element](src/main/kotlin/dev/vladleesi/MajorityElement.kt)
