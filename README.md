@@ -27,6 +27,7 @@ Focus on clean, readable, and efficient solutions.
 - [Remove Element](src/main/kotlin/dev/vladleesi/RemoveElement.kt)
 - [Roman to Integer](src/main/kotlin/dev/vladleesi/RomanToInteger.kt)
 - [Search Insert Position](src/main/kotlin/dev/vladleesi/SearchInsertPosition.kt)
+- [Single Number](src/main/kotlin/dev/vladleesi/SingleNumber.kt)
 - [Two Sum](src/main/kotlin/dev/vladleesi/TwoSum.kt)
 - [Valid Anagram](src/main/kotlin/dev/vladleesi/ValidAnagram.kt)
 - [Valid Palindrome](src/main/kotlin/dev/vladleesi/ValidPalindrome.kt)
