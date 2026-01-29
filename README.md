@@ -30,6 +30,7 @@ Focus on clean, readable, and efficient solutions.
 - [Single Number](src/main/kotlin/dev/vladleesi/SingleNumber.kt)
 - [Summary Ranges](src/main/kotlin/dev/vladleesi/SummaryRanges.kt)
 - [Two Sum](src/main/kotlin/dev/vladleesi/TwoSum.kt)
+- [Two Sum II - Input Array Is Sorted](src/main/kotlin/dev/vladleesi/TwoSumII.kt)
 - [Valid Anagram](src/main/kotlin/dev/vladleesi/ValidAnagram.kt)
 - [Valid Palindrome](src/main/kotlin/dev/vladleesi/ValidPalindrome.kt)
 - [Valid Parentheses](src/main/kotlin/dev/vladleesi/ValidParentheses.kt)
