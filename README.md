@@ -12,6 +12,7 @@ Focus on clean, readable, and efficient solutions.
   <summary>View all</summary>
 
 - [Add Binary](src/main/kotlin/dev/vladleesi/AddBinary.kt)
+- [Best Time to Buy and Sell Stock II](src/main/kotlin/dev/vladleesi/BestTimeBuySellStockII.kt)
 - [Contains Duplicate](src/main/kotlin/dev/vladleesi/ContainsDuplicate.kt)
 - [Excel Sheet Column Title](src/main/kotlin/dev/vladleesi/ExcelSheetColumnTitle.kt)
 - [Find the Index of the First Occurrence in a String](src/main/kotlin/dev/vladleesi/FindIndexFirstOccurrenceInString.kt)
