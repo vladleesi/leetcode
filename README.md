@@ -15,6 +15,7 @@ Focus on clean, readable, and efficient solutions.
 - [Best Time to Buy and Sell Stock II](src/main/kotlin/dev/vladleesi/BestTimeBuySellStockII.kt)
 - [Contains Duplicate](src/main/kotlin/dev/vladleesi/ContainsDuplicate.kt)
 - [Excel Sheet Column Title](src/main/kotlin/dev/vladleesi/ExcelSheetColumnTitle.kt)
+- [Find the Duplicate Number](src/main/kotlin/dev/vladleesi/FindDuplicateNumber.kt)
 - [Find the Index of the First Occurrence in a String](src/main/kotlin/dev/vladleesi/FindIndexFirstOccurrenceInString.kt)
 - [Intersection of Two Arrays](src/main/kotlin/dev/vladleesi/IntersectionTwoArrays.kt)
 - [Intersection of Two Arrays II](src/main/kotlin/dev/vladleesi/IntersectionTwoArrays2.kt)
