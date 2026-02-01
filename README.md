@@ -30,6 +30,7 @@ Focus on clean, readable, and efficient solutions.
 - [Roman to Integer](src/main/kotlin/dev/vladleesi/RomanToInteger.kt)
 - [Search Insert Position](src/main/kotlin/dev/vladleesi/SearchInsertPosition.kt)
 - [Single Number](src/main/kotlin/dev/vladleesi/SingleNumber.kt)
+- [Subarray Sum Equals K](src/main/kotlin/dev/vladleesi/SubarraySumEqualsK.kt)
 - [Summary Ranges](src/main/kotlin/dev/vladleesi/SummaryRanges.kt)
 - [Two Sum](src/main/kotlin/dev/vladleesi/TwoSum.kt)
 - [Two Sum II - Input Array Is Sorted](src/main/kotlin/dev/vladleesi/TwoSumII.kt)
